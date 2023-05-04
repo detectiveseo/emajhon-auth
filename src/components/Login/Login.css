@@ -1,0 +1,39 @@
+.form_warper{
+    width: 20%;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 5%;
+    margin-top: 100px;
+}
+.form_heading{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+
+.login_input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+.btn-warper{
+    text-align: center;
+}
+.btn{
+    padding: 10px 30px;
+    margin-top: 10px;
+    background-color: rgba(14, 14, 41, 0.801);
+    color: #fff;
+    border-radius: 5px;
+    font-size: 23px;
+}
+.or_sing_up_Option{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.or_sing_up_Option p{
+    border: 1px solid silver;
+    padding: 10px;
+}

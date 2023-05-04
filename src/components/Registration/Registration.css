@@ -1,0 +1,63 @@
+.form_warper{
+    width: 20%;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.form_heading{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
+    overflow: hidden;
+
+}
+
+
+.input{
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+.password_handle{
+    display: flex;
+    justify-content: space-between;
+    text-align: right;
+}
+.btn-warper{
+    text-align: center;
+}
+.btn{
+    padding: 10px 30px;
+    margin-top: 10px;
+    background-color: rgba(14, 14, 41, 0.801);
+    color: #fff;
+    border-radius: 5px;
+    font-size: 23px;
+}
+
+.sparetor{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+hr{
+    border-top: 2px solid black;
+    width: 100%;
+
+}
+.or_sing_up_Option{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.or_sing_up_Option p{
+    border: 1px solid silver;
+    padding: 10px;
+}
+.errorMassage{
+    color: red;
+}
